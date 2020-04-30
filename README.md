@@ -2,12 +2,13 @@
 All the content is in the homework file. The project for practice machine learning 💪💪💪.
 I will sort out my learning experience and update here in the future :)
 
-一、機器學習概論
+# 一、機器學習概論
 Day001：資料介紹與評估資料
 Day002：機器學習概論
 Day003：機器學習-流程與步驟
 Day004: EDA/讀取資料與分析流程
-二、資料清理數據前處理
+
+# 二、資料清理數據前處理
 Day005: 如何新建一個 dataframe? 如何讀取其他資料? (非 csv 的資料)
 Day006: EDA: 欄位的資料類型介紹及處理
 Day007: 特徵類型
