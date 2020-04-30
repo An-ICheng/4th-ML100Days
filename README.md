@@ -3,7 +3,7 @@ All the content is in the homework file. The project for practice machine learni
 I will sort out my learning experience and update here in the future :)
 
 # 一、機器學習概論
-Day001：資料介紹與評估資料
+Day001：資料介紹與評估資料n\
 Day002：機器學習概論
 Day003：機器學習-流程與步驟
 Day004: EDA/讀取資料與分析流程
