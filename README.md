@@ -16,4 +16,6 @@ Day008: EDA資料分佈\
 Day009: EDA: Outlier 及處理\
 Day010: 數值型特徵 - 去除離群值\
 Day011: 常用的數值取代：中位數與分位數連續數值標準化\
-Day012: 數值型特徵-補缺失值與標準化 (continuing)
+Day012: 數值型特徵-補缺失值與標準化 (continuing)\
+Day013: DataFrame operationData frame merge/常用的 DataFrame 操作
+
