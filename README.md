@@ -6,7 +6,7 @@ I will sort out my learning experience and update here in the future :)
 Day001：資料介紹與評估資料\
 Day002：機器學習概論\
 Day003：機器學習-流程與步驟\
-Day004: EDA/讀取資料與分析流程
+Day004：EDA/讀取資料與分析流程
 
 # 二、資料清理數據前處理
 Day005: 如何新建一個 dataframe? 如何讀取其他資料? (非 csv 的資料)\
